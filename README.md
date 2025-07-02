@@ -130,3 +130,5 @@ The calculator is implemented using basic `tkinter` elements:
 
 This project demonstrates how a basic calculator can be built using Python’s `tkinter` library. It introduces important concepts in GUI design, event-driven programming, and logical structuring. Though simple, this project helps beginners gain confidence in building real applications and prepares them to handle more advanced projects like GUI databases or scientific calculators in the future.
 
+ ### 13. **OUTPUT**
+ ![Screenshot 2025-07-02 220525](https://github.com/user-attachments/assets/dffcfa8f-8d1b-4ef5-b95b-211502585a58)
